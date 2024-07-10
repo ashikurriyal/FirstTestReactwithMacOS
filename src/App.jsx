@@ -7,6 +7,9 @@ function App() {
     <div>
       <h1 className='font-bold text-4xl'>My First React App with MacOS</h1>
       <p>And this is running properly</p>
+      <div>
+        <p>Trying for new commit</p>
+      </div>
     </div>
   )
 }
